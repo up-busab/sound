@@ -1,0 +1,6 @@
+while [ true ]; do cat somefile; done | 
+
+
+settings for bubbles raw: -f S16_LE -r 44100 -c 2 OR -f S16_LE -r 88200 -c 1 (why?)
+
+-r 2000 -c 2
